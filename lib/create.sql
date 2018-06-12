@@ -8,7 +8,7 @@ CREATE TABLE projects (
 );
 
 CREATE TABLE users (
-  id PRIMARY KEY INTEGER,
+  id INTEGER PRIMARY KEY,
   name TEXT,
   age INTEGER
 );
